@@ -23,7 +23,7 @@
 
 🎥 [Watch the video here](https://drive.google.com/file/d/1cGmY1VHm9Gq3FvolqnIUvA6NN2xUCJU7/view?usp=sharing)
 
-![Detection in Action](assets/demo.png) <!-- Replace with your actual demo GIF or screenshot -->
+![Detection in Action](demo.png) <!-- Replace with your actual demo GIF or screenshot -->
 
 
 ```bash
