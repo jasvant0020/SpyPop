@@ -13,7 +13,7 @@
 ## 🚀 How to Use
 
 ### 1. first run main.py and give a secret message as input and it genrate files which are as secret.enc and secret.key.
-### 2. send secret.enc + secret.key + secret.exe or you can send  secret.enc + secret.key + secret.py
+### 2. send secret.enc + secret.key + secret.exe or you can send  secret.enc + secret.key + secret.py to your friend or any user 
 
 ## ⚠️ Warning
 
