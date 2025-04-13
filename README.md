@@ -19,6 +19,10 @@
 
 ### Once secret.py or secret.exe runs, it deletes itself and all related files. Use with caution — this is not reversible.
 
+## Demo
+
+🎥 [Watch the video here](https://drive.google.com/file/d/1cGmY1VHm9Gq3FvolqnIUvA6NN2xUCJU7/view?usp=sharing)
+
 
 ```bash
 git clone https://github.com/yourusername/spypop.git
