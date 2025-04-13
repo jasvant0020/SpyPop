@@ -16,7 +16,7 @@
 
 ## ⚠️ Warning
 
-### Once secret.py runs, it deletes itself and all related files. Use with caution — this is not reversible.
+### Once secret.py or secret.exe runs, it deletes itself and all related files. Use with caution — this is not reversible.
 
 
 ```bash
