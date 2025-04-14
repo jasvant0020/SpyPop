@@ -27,5 +27,5 @@
 
 
 ```bash
-git clone https://github.com/yourusername/spypop.git
+git clone https://github.com/jasvant0020/spypop.git
 cd spypop
