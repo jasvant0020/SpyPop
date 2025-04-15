@@ -13,16 +13,18 @@ This project is for **educational and demonstration purposes only**. It ensures 
 - Displays the message in a styled GUI window (popup)
 - Blocks attempts to close the window early
 - Automatically deletes the `message`  `key` and `script`/`executable` after countdown
-- -✅ Only deletes project-related files, such as:
-    -`secret.key`
-    -`secret.enc`
-    -`secret.py` / `secret.exe`.
-- No internet access or personal data collection
-- It.......:
-    -Does NOT access any user data
-    -Does NOT upload, share, or send files to the internet
-    -does not  access Documents, Photos, Desktop files
-    -does not  access Personal folders or system directories
+- ✅ Only deletes project-related files, such as:
+  - `secret.key`
+  - `secret.enc`
+  - `secret.py` / `secret.exe`
+
+- ❌ No internet access or personal data collection
+- ℹ️ It ensures:
+  - Does **NOT** access any user data
+  - Does **NOT** upload, share, or send files to the internet
+  - Does **NOT** access Documents, Photos, or Desktop files
+  - Does **NOT** access personal folders or system directories
+
 ##⚠️ Antivirus / Defender Notice
 
 - These are false positives, and the source code is 100% open and inspectable.
