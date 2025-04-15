@@ -58,13 +58,12 @@ The source code is open and safe to inspect before compiling.
 
 
 
-```bash
-git clone https://github.com/jasvant0020/spypop.git
-cd spypop
-
-
-
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+```bash
+git clone https://github.com/jasvant0020/spypop.git
+cd spypop
