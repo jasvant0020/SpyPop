@@ -25,7 +25,7 @@ This project is for **educational and demonstration purposes only**. It ensures 
   - Does **NOT** access Documents, Photos, or Desktop files
   - Does **NOT** access personal folders or system directories
 
-##⚠️ Antivirus / Defender Notice
+## ⚠️ Antivirus / Defender Notice
 
 - These are false positives, and the source code is 100% open and inspectable.
 - Please review the source if unsure before running the executable.
